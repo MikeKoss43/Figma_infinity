@@ -1,0 +1,150 @@
+@import 'null.css';
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,500,900&display=swap');
+
+body {
+	background-color: rgb(228, 197, 155);
+	margin-bottom: 100px;
+	
+}
+
+.central {
+	background-color: rgba(2, 19, 60, 1);
+	box-shadow: rgba(0, 0, 0, 0.25);
+	background-size: 100% 100%;
+	color: rgba(255, 255, 255, 1);
+	margin-top: 224px;
+	/*margin-bottom: 200px;*/
+	font-family: 'Roboto';
+	/*max-width: 1140px;
+	max-height: 688px;*/
+	
+}
+
+
+ul {
+	display: inline-block;
+	max-width: 411px;
+	max-height: 129px;
+	margin: 112px 111px 79px 210px;
+	border: 1px solid rgba(0, 0, 0, 1);
+	
+}
+
+img {
+	margin: -80px 0px 79px 210px;
+	border: 1px solid rgba(0, 0, 0, 1);
+	
+}
+
+
+.item-one {
+	background-image: url(images/chevron_right_24px.png);
+	background-repeat: no-repeat;
+	background-position:	6.7px 0px;
+	text-transform: uppercase;
+	font-size: 12px;
+	color: rgba(213, 213, 213, 1);
+	margin-bottom: 32.13px;
+	padding: 0px 0px 0px 33px;
+	
+
+}
+
+.item-two {
+	font-size: 36px;
+}
+
+.list-two {
+	border: none;
+	margin-bottom: 134px;
+	
+
+}
+
+.contain {
+	
+	display: inline-block;
+	margin-bottom: 134px;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: 400;
+}
+
+.contain-one {
+	border: 1px solid rgba(0, 0, 0, 1);
+	display: inline-block;
+	margin-left: 210px;
+	margin-right: 24px;
+	background-image: url(images/car_oil-24x.png);
+	background-size: auto;
+	background-repeat: no-repeat;
+	padding: 49px 40px 3px 88px ;
+
+}
+.contain-two {
+	display: inline-block;
+	margin-right: 24px;
+	border: 1px solid rgba(0, 0, 0, 1);
+	background-image: url(images/car_transmission_24x.png);
+	background-size: auto;
+	padding: 49px 40px 3px 88px;
+	background-repeat: no-repeat;
+}  
+.contain-three {
+	display: inline-block;
+	margin-right: 24px;
+	border: 1px solid rgba(0, 0, 0, 1);
+	background-image: url(images/Flat_Tyre.png);
+	background-size: auto;
+	background-position: 0px 15px;
+	padding: 49px 40px 3px 88px;
+	background-repeat: no-repeat;
+
+}
+.contain-four {
+	display: inline-block;
+	margin-right: 210px;
+	border: 1px solid rgba(0, 0, 0, 1);
+	background-image: url(images/car_engine_2_24x.png);
+	background-size: auto;
+	padding: 49px 40px 3px 88px;
+	background-repeat: no-repeat;
+
+}
+
+
+
+.end {
+	margin: -50px 210px 50px 210px;
+	background-color: rgba(255, 255, 255, 1);
+	padding: 30px 50px 30px 50px;
+}
+
+.ending {
+	
+	display: inline;
+	font-family: 'Roboto';
+	color: rgba(2, 19, 60, 1);
+	font-weight: 900;
+	font-size: 24px;
+	margin: 43px 101px 48px 70px;
+}
+
+button {
+
+	background-color: rgba(196, 11, 11, 1);
+	display: inline;
+	color: rgba(255, 255, 255, 1);
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 24px;
+	padding: 19px 50px 19px 19px;
+	margin: 49px 76px 53px 0px;
+	background-image: url(images/arrow_forward_24px.png);
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: 170.67px ;
+
+}
+
